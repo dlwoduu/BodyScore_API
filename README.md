@@ -1,1 +1,1 @@
-# BodyScore_API
+# BodyScore
